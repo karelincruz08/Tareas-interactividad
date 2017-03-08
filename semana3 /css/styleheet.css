@@ -1,0 +1,125 @@
+* {
+
+	margin:0px;
+	padding: 0px;
+	
+}
+
+body{
+
+	background-color:#102D2D;
+
+}
+
+h1{
+
+	font-family: 'Permanent Marker', cursive;
+font-family: 'Patrick Hand SC', cursive;
+color: black;
+text-align: center;
+font-size: 100px;
+color:white;
+}
+
+
+header {
+	margin-top: -50%;
+	margin: 100px auto;
+	width: 1008px;
+	height: 238px;
+	background-color:#102D2D;
+	font-family: 'Permanent Marker', cursive;
+
+}
+
+div.contenedor {
+
+
+	width: 238px;
+	height: 238px;
+	float: left;
+	-webkit-transition:height .4s;
+
+
+}
+
+
+div#uno{
+	background-color: rgb(138,215,226);
+}
+
+div#dos {
+
+	background-color: rgb(84,190,204);
+}
+
+div#tres {
+
+	background-color: rgb(64,156,163);
+}
+
+
+div#cuatro {
+
+	background-color: rgb(34,107,109);
+}
+ p  {
+
+
+ }
+
+
+ img.icon {
+
+ 	display: block;
+ 	margin: 50px auto;
+ 	 background-color: #D4DFF2;
+ 	 width: 40px;
+ 	 padding: 20px;
+ 	 -webkit-border-radius:50%;
+ 	 -webkit-box-shadow:0px 0px 0px 30px rgb(255,255,255,1);
+ 	 -webkit-transfomation:box;
+
+
+ }
+
+p.texto{
+	font-size: 1.2em;
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+	opacity: .6;
+	-webkit-transition:padding-top .4s;
+	text-decoration: none;
+}
+
+div.contenedor:hover{
+	height: 250px;
+
+}
+
+
+
+div.contenedor p.texto{
+	padding-top: 30px;
+
+
+}
+
+
+
+div.contenedor:hover p.texto{
+-webkit-box-shadow:0px 0px 0px 0px rgb(255,255,255,.6);
+
+}
+
+footer{
+	text-align: center;
+	color: white;
+	font-size: 10px;
+   padding-top: 10%;
+}
+
+
+
+

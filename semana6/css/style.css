@@ -1,0 +1,94 @@
+#wrapper{
+	width: 1024px;
+margin: auto;
+}
+
+
+
+
+body {
+
+	background-color:black; 
+	margin:0;
+
+
+
+}
+
+.logo{
+	width: 150px;
+	height: 150px;
+    display: block;
+	margin: auto;
+}
+
+
+
+
+}
+
+
+h5 {
+	font-family: 'Anton', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+font-size: 15px;
+margin-top: 5px;
+
+
+
+}
+
+
+p{
+
+	font-family: 'Anton', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Varela Round', sans-serif;
+
+font-size: 10px;
+text-align: left;
+
+}
+
+/*estilos de la galeria*/
+
+
+.fotos {
+	width: 90%;
+	margin: auto;
+	list-style: none;
+	padding: 20px;
+	box-sizing: border-box;
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+
+
+.fotos li {
+	margin: 10px;
+}
+
+.fotos img {
+	width: 80%;
+	
+
+}
+
+.audio{
+
+	margin-left: 60%;
+
+}
+
+
+
+
+
+
+
+
+
+
